@@ -15,7 +15,7 @@ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     <html>
         <head>
             <title><xsl:value-of select="owl:Ontology/rdfs:label"/></title>
-            <link rel="stylesheet" href="aksw-namespace-style.css" type="text/css" />
+            <link rel="stylesheet" href="namespace.css" type="text/css" />
         </head>
 
         <body>
