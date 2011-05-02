@@ -1,7 +1,7 @@
 rdf:
 	cwm namespace.n3 --rdf >namespace.rdf
 
-html:
+html: rdf
 	xsltproc namespace.xsl namespace.rdf >namespace.html
 
 install: rdf
