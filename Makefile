@@ -1,5 +1,5 @@
 rdf:
-	cwm namespace.n3 --rdf >namespace.rdf
+	rapper -i turtle -o rdfxml-abbrev namespace.ttl >namespace.rdf
 
 html: rdf
 	xsltproc namespace.xsl namespace.rdf >namespace.html
