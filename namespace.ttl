@@ -1,5 +1,4 @@
 @prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
-@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 
@@ -11,7 +10,6 @@
 
 @prefix vann: <http://purl.org/vocab/vann/>.
 @prefix http: <http://www.w3.org/2006/http#>.
-@prefix prv: <http://purl.org/net/provenance/ns#> .
 
 @prefix pingback: <http://purl.org/net/pingback/> .
 
@@ -107,7 +105,7 @@ pingback:examplePingback2 a pingback:Item;
 ###
 
 pingback:RequestGuideline a owl:Class;
-    rdfs:subClassOf prv:CreationGuideline;
+    rdfs:subClassOf <http://purl.org/net/provenance/ns#CreationGuideline>;
     rdfs:label "Pingback Creation Guideline";
     rdfs:comment "This concept represents the process of creating data based on a pingback request.";
     rdfs:isDefinedBy <http://purl.org/net/pingback/>.
