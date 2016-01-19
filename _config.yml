@@ -1,0 +1,12 @@
+# Site settings
+title: Semantic Pingback
+email: 
+description: "Adding a social dimension to the Linked Data Web."
+baseurl: ""
+url: "https://semanticpingback.github.io"
+twitter_username: akswgroup
+github_username:  aksw
+
+# Build settings
+markdown: kramdown
+permalink: pretty
