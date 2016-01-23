@@ -8,6 +8,7 @@ The Semantic Pingback mechanism is an extension of the well-known Pingback metho
 
 * [Project Page @ aksw.org](http://aksw.org/Projects/SemanticPingback.html)
 * [Semantic Pingback Vocabulary](https://github.com/AKSW/SemanticPingback)
+* [Semantic Pingback Server](https://github.com/AKSW/SemanticPingback-Server) (an example implementation)
 
 *This page was moved from our old wiki and still contains links to the old google code repository. Sorry*
 
