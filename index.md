@@ -59,7 +59,7 @@ A pingback-enabled version of Triplify will be released soon.
 
 
 ### Standalone Semantic Pingback Server
-A prototype of a standalone Semantic Pingback server is [available for download here](http://code.google.com/p/ontowiki/downloads/list?q=label:SemanticPingback).
+A prototype of a standalone Semantic Pingback server is [available for download here](https://github.com/AKSW/SemanticPingback-Server).
 
 To setup the Semantic Pingback server follow these steps:
 
