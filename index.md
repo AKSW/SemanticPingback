@@ -154,6 +154,8 @@ Provenance information can be recorded using the [provenance vocabulary](http://
 ## Further Information
 Please have a look at our paper:
 
-Sebastian Tramp, Philipp Frischmuth, Timofey Ermilov, Sören Auer: [Weaving a Social Data Web with Semantic Pingback](http://www.informatik.uni-leipzig.de/~auer/publication/SemanticPingback.pdf)
+Sebastian Tramp, Philipp Frischmuth, Timofey Ermilov, Sören Auer: [Weaving a Social Data Web with Semantic Pingback](http://svn.aksw.org/papers/2010/EKAW_SemanticPingback/public.pdf)
 
 Also the original [Pingback specification](http://www.hixie.ch/specs/pingback/pingback) provides additional information.
+
+Pingback was standardized in 2017 as [Webmention (W3C Recommendation)](https://www.w3.org/TR/2017/REC-webmention-20170112/). Webmention basically is what was previsouly defined as *Simplified Post Request* by Semantic Pingback.
